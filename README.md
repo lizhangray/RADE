@@ -29,9 +29,8 @@ The code is free for academic/research purpose. Please kindly cite our work in y
 ![1](./Example/1.PNG)
 
 **other**
+<div align=center>
 <center class="half">
-    <img src="./Example/2.jpg" width="200"/><img src="./Example/3.jpg" width="200"/><img src="图片链接" width="200"/> </center>
-<center class="half">
-    <img src="./Example/2.jpg" width="200"><img src="./Example/3.jpg" width="200">
-</center>
+    <img src="./Example/2.jpg" width="200"/><img src="./Example/3.jpg" width="200"/><img src="图片链接" width="200"/> </center></div>
+
 
