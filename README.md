@@ -28,9 +28,29 @@ The code is free for academic/research purpose. Please kindly cite our work in y
 **Comparison**
 ![1](./Example/1.PNG)
 
-**other**
+**Other**
 <div align=center>
 <center class="half">
     <img src="./Example/2.jpg" width="400"/><img src="./Example/3.jpg" width="400"/></center></div>
+
+<div align=center>
+<center class="half">
+    <img src="./Example/4.jpg" width="400"/><img src="./Example/5.jpg" width="400"/></center></div>
+    
+<div align=center>
+<center class="half">
+    <img src="./Example/6.jpg" width="400"/><img src="./Example/7.jpg" width="400"/></center></div>
+    
+<div align=center>
+<center class="half">
+    <img src="./Example/8.jpg" width="400"/><img src="./Example/9.png" width="400"/></center></div>
+    
+<div align=center>
+<center class="half">
+    <img src="./Example/10.jpg" width="400"/><img src="./Example/11.png" width="400"/></center></div>
+    
+<div align=center>
+<center class="half">
+    <img src="./Example/12.png" width="400"/><img src="./Example/13.png" width="400"/></center></div>
 
 
