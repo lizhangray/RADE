@@ -29,7 +29,7 @@ The code is free for academic/research purpose. Please kindly cite our work in y
 ![1](./Example/1.PNG)
 
 **other**
-<figure class="half">
+<center class="half">
     <img src="./Example/2.jpg" width="200"><img src="./Example/3.jpg" width="200">
-</figure>
+</center>
 
