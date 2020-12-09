@@ -1,6 +1,7 @@
 # FADE：Fast Region-Adaptive Defogging and Enhancement
 
 MATLAB code for our ICPR 2020 paper "Z. Li, X. Zheng, B. Bhanu, S. Long, Q. Zhang, Z. Huang. Fast Region-Adaptive Defogging and Enhancement for Outdoor Images Containing Sky."  
+## Run
 ````
 example:
    HazyIn = imread('3.jpg'); 
@@ -8,7 +9,7 @@ example:
 ````
 Authorized by Zhan Li (lizhan@jnu.edu.cn) created on Feb 23th, 2020 and released on Dec. 9th, 2020.
 
-# Requirement
+## Requirement
 The code was tested on MATLAB (R2015a), 64-bit Win10.  
 
 ## Citing 
@@ -23,3 +24,5 @@ The code is free for academic/research purpose. Please kindly cite our work in y
   year={2020}
 }
 ```
+## Example
+![1](./Example/1.PNG)
