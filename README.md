@@ -25,4 +25,12 @@ The code is free for academic/research purpose. Please kindly cite our work in y
 }
 ```
 ## Example
+**Comparison**
 ![1](./Example/1.PNG)
+
+**other**
+<figure class="half">
+    <img src="./Example/2.jpg">
+    <img src="./Example/3.jpg">
+</figure>
+
