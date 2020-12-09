@@ -30,7 +30,7 @@ The code is free for academic/research purpose. Please kindly cite our work in y
 
 **other**
 <figure class="half">
-    <img src="./Example/2.jpg" width="300">
-    <img src="./Example/3.jpg" width="300">
+    <img src="./Example/2.jpg" width="200">
+    <img src="./Example/3.jpg" width="200">
 </figure>
 
