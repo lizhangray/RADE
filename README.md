@@ -1,7 +1,7 @@
 # RADE：Fast Region-Adaptive Defogging and Enhancement
 
 MATLAB code for our ICPR 2020 paper "Z. Li, X. Zheng, B. Bhanu, S. Long, Q. Zhang, Z. Huang. Fast Region-Adaptive Defogging and Enhancement for Outdoor Images Containing Sky."  
-It is used for image dehazing or image defogging for images of outdoor scenes sepecially containing sky.
+It is used for image dehazing / image defogging / image enhancement for images of outdoor scenes sepecially containing sky.
 
 ## Run
 ````
