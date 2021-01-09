@@ -1,4 +1,4 @@
-# FADE：Fast Region-Adaptive Defogging and Enhancement
+# RADE：Fast Region-Adaptive Defogging and Enhancement
 
 MATLAB code for our ICPR 2020 paper "Z. Li, X. Zheng, B. Bhanu, S. Long, Q. Zhang, Z. Huang. Fast Region-Adaptive Defogging and Enhancement for Outdoor Images Containing Sky."  
 ## Run
