@@ -56,3 +56,4 @@ The code is free for academic/research purpose. Please kindly cite our work in y
     <img src="./Example/12.png" width="400"/><img src="./Example/13.png" width="400"/></center></div>
 
 
+[![Page Views Count](https://badges.toozhao.com/badges/01F0MPA6GQQXGBJSVKT85C4PKT/green.svg)](https://badges.toozhao.com/stats/01F0MPA6GQQXGBJSVKT85C4PKT "Get your own page views count badge on badges.toozhao.com")
