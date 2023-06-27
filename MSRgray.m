@@ -3,7 +3,7 @@
 % output P: [0-1] double, m*n grayscale image
 
 function P = MSRgray(a)
-    Y0 = double(a);  %ÕºœÒDOUBLEªØ
+    Y0 = double(a);  %√ç¬º√è√±DOUBLE¬ª¬Ø
     
     [N1, M1] = size(Y0);
 
@@ -29,7 +29,7 @@ function P = MSRgray(a)
     sigma3 = 512;
     F3 = fspecial('gaussian', [N1,M1], sigma3);
     Efft3 = fft2(double(F3));
-    DR0 = Yfft2.* Efft3;
+    DY0 = Yfft2.* Efft3;
     DY = ifft2(DY0);
     DYlog = log(DY +1);
     Yy3 = Ylog - DYlog;
